@@ -1,0 +1,5 @@
+/ebin
+/deps
+/dist
+/build
+erl_crash.dump
