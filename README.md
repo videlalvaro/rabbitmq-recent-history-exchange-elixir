@@ -1,6 +1,6 @@
 # RabbitMQ Recent History Cache
 
-This an example RabbitMQ plugin implemented in the Elixir Programming Language
+This an example RabbitMQ plugin implemented in the __Elixir Programming Language__
 
 Keeps track of the last 20 messages that passed through the exchange. Every time a queue is bound to the exchange it delivers that last 20 messages to them. This is useful for implementing a very simple __Chat History__ where clients that join the conversation can get the latest messages.
 
