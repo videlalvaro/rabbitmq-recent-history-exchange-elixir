@@ -1,4 +1,4 @@
-# RabbitMQ Recent History Cache
+# RabbitMQ Recent History Exchange
 
 This an example RabbitMQ plugin implemented in the __Elixir Programming Language__
 
